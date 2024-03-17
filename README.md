@@ -43,12 +43,9 @@ Project kami belum selesai karena kami mempunyai keterbatasan biaya dan hardware
 4. Lewat Web
    Saat ini kami belum ada rencana membuat web untuk mengerjakan hal ini karena kami mau fokus ke app dan bot
 
-
 ### Contoh Deskripsi jasa developer yang baik dan benar
 
   Kami menyarankan anda untuk menggunakan / menjelaskan detail project agar kami bisa mengerjakan dengan cepat
-  
-  
 
 ### FAQS
 
