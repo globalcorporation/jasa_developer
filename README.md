@@ -16,6 +16,12 @@ Hai kami dari GLOBAL Corporation Membuka layanan jasa developer menggunakan baha
 Project kami belum selesai karena kami mempunyai keterbatasan biaya dan hardware (koneksi internet) oleh karena itu tolong bantu kami dengan membeli jasa custom software, Kami Bisa membuat berbagai software yang kamu mau
 
 
+## Harga Jasa Developer
+
+1. App (500k - XXjt)
+2. Bot / Userbot (500k - 10jt)
+3. Server (1jt - xxJt)
+
 ## Cara Membeli Jasa Developer
 
    Semua jasa kami di layanin automatis oleh bot namun pengerjaan saat ini tidak automatis ya (pembuatan source code) hal ini karena kami kurang dana untuk melanjutkan project pembuatan source code
