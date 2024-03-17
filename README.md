@@ -4,13 +4,13 @@ Hai kami dari GLOBAL Corporation Membuka layanan jasa developer menggunakan baha
 
 ## Project yang kami sudah pernah buat
 
-| NO | Nama                    | Deskripsi                                                                                       | Demo | STATUS             |
-|----|-------------------------|-------------------------------------------------------------------------------------------------|------|--------------------|
-| 1. | Global App              | Super Application (social media + chat + tempat jual beli berbagai jasa dan produk)             |      | Belum 100% Selesai |
-| 2. | Global Bot App          | Super application untuk menjalankan bot di device (laptop/hp) bisa di gunakan sebagai assistant |      | Belum 100% Selesai |
-| 3. | Global Bot Telegram     |                                                                                                 |      | Belum 100% Selesai |
-| 4. | Global Userbot Telegram |                                                                                                 |      | Belum 100% Selesai |
-| 5. | Global Whatsapp Bot     |                                                                                                 |      |                    |
+| NO | Nama                                                                  | Deskripsi                                                                                       | Demo | STATUS             |
+|----|-----------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|------|--------------------|
+| 1. | [Global App](https://github.com/globalcorporation/global_app)         | Super Application (social media + chat + tempat jual beli berbagai jasa dan produk)             |      | Belum 100% Selesai |
+| 2. | [Global Bot App](https://github.com/globalcorporation/global_bot_app) | Super application untuk menjalankan bot di device (laptop/hp) bisa di gunakan sebagai assistant |      | Belum 100% Selesai |
+| 3. | [Global Bot Telegram](https://github.com/globalcorporation/global_bot_telegram)                                               |                                                                                                 |      | Belum 100% Selesai |
+| 4. | [Global Userbot Telegram](https://github.com/globalcorporation/global_userbot_telegram)                                           |                                                                                                 |      | Belum 100% Selesai |
+| 5. | [Global Whatsapp Bot](https://github.com/globalcorporation/global_bot_whatsapp)                                               |                                                                                                 |      |                    |
 
 
 Project kami belum selesai karena kami mempunyai keterbatasan biaya dan hardware (koneksi internet) oleh karena itu tolong bantu kami dengan membeli jasa custom software, Kami Bisa membuat berbagai software yang kamu mau
