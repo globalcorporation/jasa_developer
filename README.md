@@ -57,20 +57,20 @@ Project kami belum selesai karena kami mempunyai keterbatasan biaya dan hardware
 
 ### FAQS
 
-Q: Berapa lama proses pengerjaan?
+Q: **Berapa lama proses pengerjaan?**
 
-A: Kurang lebih 1-7 hari
+A: **Kurang lebih 1-7 hari**
 
-Q: Apakah ada garansi jika ada bug?
+Q: **Apakah ada garansi jika ada bug?**
 
-A: Ya jika ada bug dari kami kami akan melakukan garansi gratis
+A: **Ya jika ada bug dari kami kami akan melakukan garansi gratis**
 
-Q: Apakah saya bisa bertanya tanya mengenai cara menjalankan project / source code?
+Q: **Apakah saya bisa bertanya tanya mengenai cara menjalankan project / source code?**
 
-A: Ya boleh, asal sudah mencoba cara / petunjuk yang ada di source code
+A: **Ya boleh, asal sudah mencoba cara / petunjuk yang ada di source code**
 
-Q: Apakah ada jaminan anda tidak memberitahukan project rahasia ke orang lain
+Q: **Apakah ada jaminan anda tidak memberitahukan project rahasia ke orang lain**
 
-A: Ya kami menjamin kami tidak akan membocorkan sedikit informasi apapun namun jika ada hal yang bisa membuat rugi besar dan kami di desak kami bisa saja ingkar janji namun jika tidak ada hal seperti tadi kami 
-janji 100% aman
+A: **Ya kami menjamin kami tidak akan membocorkan sedikit informasi apapun namun jika ada hal yang bisa membuat rugi besar dan kami di desak kami bisa saja ingkar janji namun jika tidak ada hal seperti tadi kami 
+janji 100% aman**
  
