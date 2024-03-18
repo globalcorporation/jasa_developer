@@ -26,9 +26,9 @@ Project kami belum selesai karena kami mempunyai keterbatasan biaya dan hardware
 
    Semua jasa kami di layanin automatis oleh bot namun pengerjaan saat ini tidak automatis ya (pembuatan source code) hal ini karena kami kurang dana untuk melanjutkan project pembuatan source code
 
-1. Lewat Telegram Bot
+1. Lewat Telegram Bot **(Rekomendasi saat ini)**
    
-   -  kamu tap bot ini https://t.me/GLOBAL_CORPORATION_ORG_BOT?start=ref_gh
+   -  kamu tap bot ini https://t.me/GLOBAL_CORP_ORG_BOT?start=ref_gh
    -  Isi data + subscribe semua yang bot minta
    -  Cari menu sevrices pilih jasa developer pilih jasa
    -  Pastikan coin cukup
