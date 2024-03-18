@@ -28,8 +28,16 @@ Project kami belum selesai karena kami mempunyai keterbatasan biaya dan hardware
 
 1. Lewat Telegram Bot
    
-   -  kamu tap bot ini https://t.me/GLOBAL_CORPORATION_ORG_BOT?start=ref+
+   -  kamu tap bot ini https://t.me/GLOBAL_CORPORATION_ORG_BOT?start=ref_gh
+   -  Isi data + subscribe semua yang bot minta
+   -  Cari menu sevrices pilih jasa developer pilih jasa
+   -  Pastikan coin cukup
+   -  Isi data project yang di minta bot
+   -  Konfirmasi
+   -  Nunggu Hasil Source Code (1-7 hari) jika lebih dari 7 hari lapor di menu lapor / lapor ke akun user yang ada di menu bot
 
+   Jika bingung tonton video tutorial ini
+   [![Watch the video](https://img.youtube.com/vi/TY0Y21C6asM/maxresdefault.jpg)](https://www.youtube.com/watch?v=TY0Y21C6asM)
 
 2. Lewat Developer
    - Tap Link Ini: https://github.com/orgs/globalcorporation/people
@@ -50,11 +58,19 @@ Project kami belum selesai karena kami mempunyai keterbatasan biaya dan hardware
 ### FAQS
 
 Q: Berapa lama proses pengerjaan?
+
 A: Kurang lebih 1-7 hari
+
 Q: Apakah ada garansi jika ada bug?
+
 A: Ya jika ada bug dari kami kami akan melakukan garansi gratis
+
 Q: Apakah saya bisa bertanya tanya mengenai cara menjalankan project / source code?
+
 A: Ya boleh, asal sudah mencoba cara / petunjuk yang ada di source code
+
 Q: Apakah ada jaminan anda tidak memberitahukan project rahasia ke orang lain
-A: Ya kami menjamin kami tidak akan membocorkan sedikit informasi apapun namun jika ada hal yang bisa membuat rugi besar dan kami di desak kami bisa saja ingkar janji namun jika tidak ada hal seperti tadi kami janji 100% aman
+
+A: Ya kami menjamin kami tidak akan membocorkan sedikit informasi apapun namun jika ada hal yang bisa membuat rugi besar dan kami di desak kami bisa saja ingkar janji namun jika tidak ada hal seperti tadi kami 
+janji 100% aman
  
